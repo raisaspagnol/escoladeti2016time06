@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: escoladeti2016.time06
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Raisa Spagnol
+Implementation-Vendor-Id: com.escolati.time06
+Build-Jdk: 1.8.0_73
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
